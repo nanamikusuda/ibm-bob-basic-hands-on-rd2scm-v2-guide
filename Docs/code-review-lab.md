@@ -41,6 +41,14 @@ REVIEW パネルで以下を順に設定します。
 
 <img src="../Image/code-review-lab/image-4.png" width="800" style="border: 1px solid black;">
 
+#### 1-2-3. GitHub issue　を選択する場合（任意）
+
+GitHub Issueとは、GitHubのリポジトリ上で、タスク、要件、不具合、改善案などを管理する機能です。各 Issue には番号（例: #1）とURLがあり、作業内容や完了条件（受け入れ基準）をチームで共有できます。Bob のレビューでは、Issue を指定すると、変更内容がその Issue の要件を満たしているかを確認できます。
+
+　**手順：**
+
+ Issueの一覧から、確認したいGitHub Issueを選択します。
+
 ### 1-3. レビューの開始
 
 「**レビューを開始**」をクリックします。
