@@ -57,7 +57,7 @@ IBM Bobを使って、実用的なFAQサイト作成をユースケースとし�
 - **Bob IDE** - [ダウンロードはこちら](https://bob.ibm.com/download)
 - **Webブラウザ** - Chrome、Firefox、Safari、Edge等
 
-### 任意（Lab 4のハンズオンで必要）
+### 任意（Lab 3・Lab 4のハンズオンで必要）
 
 - **GitHub アカウント** - 作成ガイドは[こちら](https://docs.github.com/ja/get-started/start-your-journey/creating-an-account-on-github)を参照
 - **Git** - セットアップガイドは[こちら](https://docs.github.com/ja/get-started/git-basics/set-up-git#setting-up-git)を参照
