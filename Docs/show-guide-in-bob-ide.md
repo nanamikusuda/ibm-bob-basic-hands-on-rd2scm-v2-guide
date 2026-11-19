@@ -18,7 +18,7 @@ Bob の画面上で、そのままハンズオンガイドを見ながらハン�
 ### 1. URL をコピーします
 
 ```
-https://github.com/HonokaTakanashi/ibm-bob-basic-hands-on-rd2scm-v2-guide
+https://github.com/nanamikusuda/ibm-bob-basic-hands-on-rd2scm-v2-guide.git
 ```
 
 ### 2. コマンドパレットを開きます
